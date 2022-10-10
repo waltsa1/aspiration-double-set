@@ -48,7 +48,7 @@ wrap several methods from the `Map<K, V>` interface in order to create helper me
 I chose Spock for the testing framework as it is really easy to use. 
 
 ## Files for submission
-In `main/java`, you'll find a class called `Main.java` and a package, `com.aspiration.doubleset`. 
+In `main/java`, you'll find a class called `Main.java` and a package, `com.aspiration.doubleset`, which contains the implmentation of DoubleSet. 
 * `Main.java` - Unsurprisingly, this is where the `main` method is.
 * `com.aspiration.doubleset.DoubleSet.java` - This is where all the methods for implementing `DoubleSet` live. 
 I know, you're shocked!
