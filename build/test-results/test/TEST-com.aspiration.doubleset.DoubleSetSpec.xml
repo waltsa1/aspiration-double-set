@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.aspiration.doubleset.DoubleSetSpec" tests="9" skipped="0" failures="0" errors="0" timestamp="2022-10-10T18:37:14" hostname="LAPTOP-19PMVQ4R" time="0.15">
+  <properties/>
+  <testcase name="put() puts an element into the DoubleSet" classname="com.aspiration.doubleset.DoubleSetSpec" time="0.097"/>
+  <testcase name="put() ignores the third same element" classname="com.aspiration.doubleset.DoubleSetSpec" time="0.001"/>
+  <testcase name="get() gets the correct value" classname="com.aspiration.doubleset.DoubleSetSpec" time="0.001"/>
+  <testcase name="putAll() puts all" classname="com.aspiration.doubleset.DoubleSetSpec" time="0.041"/>
+  <testcase name="add() properly sums two DoubleSets" classname="com.aspiration.doubleset.DoubleSetSpec" time="0.002"/>
+  <testcase name="subtract() properly subtracts two DoubleSets" classname="com.aspiration.doubleset.DoubleSetSpec" time="0.002"/>
+  <testcase name="subtract() is NOT commutative" classname="com.aspiration.doubleset.DoubleSetSpec" time="0.001"/>
+  <testcase name="remove() decrements the count by one" classname="com.aspiration.doubleset.DoubleSetSpec" time="0.001"/>
+  <testcase name="remove() removes the element when the count is less than one" classname="com.aspiration.doubleset.DoubleSetSpec" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
